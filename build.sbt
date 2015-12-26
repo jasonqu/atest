@@ -1,10 +1,10 @@
 organization := "com.github.jasonqu"
 
-name := "sbt-static"
+name := "site_test"
 
-version := "0.1.1"
+version := "0.1-SNAPSHOT"
 
-scalaVersion := "2.10.3"
+scalaVersion := "2.11.4"
 
 site.settings
 
