@@ -1,6 +1,6 @@
 organization := "com.github.jasonqu"
 
-name := "site_test"
+name := "atest"
 
 version := "0.1-SNAPSHOT"
 
